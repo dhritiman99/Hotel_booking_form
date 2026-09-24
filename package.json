@@ -1,0 +1,21 @@
+{
+  "name": "hotel_booking_form",
+  "version": "1.0.0",
+  "description": "A full-stack hotel booking application built with React, Vite, Express.js, and MongoDB. This project allows users to book hotel rooms, view available bookings, and manage reservations.",
+  "homepage": "https://github.com/dhritim4n/Hotel_booking_form#readme",
+  "bugs": {
+    "url": "https://github.com/dhritim4n/Hotel_booking_form/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhritim4n/Hotel_booking_form.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run --prefix frontend build && npm run --prefix backend dev"
+  }
+}
